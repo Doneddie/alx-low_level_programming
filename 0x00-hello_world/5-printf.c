@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - piece of art
+ * main - piece of art and grammar
  * Return: 0
  */
 int main(void)
