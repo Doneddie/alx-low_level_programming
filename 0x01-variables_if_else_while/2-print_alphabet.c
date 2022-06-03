@@ -7,9 +7,9 @@
  */
 int main(void)
 {
-	char c = 'a-z';
+	char c = 'a';
 
-	while (c <= '2')
+	while (c <= 'z')
 	{
 		putchar(c);
 		c++;
