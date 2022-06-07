@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
  * main - check code
@@ -16,5 +16,6 @@ int main(void)
 
 	}
 	putchar('\n');
+	return (0);
 
 }

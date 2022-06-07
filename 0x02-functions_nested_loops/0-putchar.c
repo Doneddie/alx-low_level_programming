@@ -4,9 +4,9 @@
  * Description: Program that prints _putchar.
  * Return: 0
  */
-void print (_putchar)
+#include "main.h"
+int main(void)
 {
-	// Print _putchar
-	putchar('_putchar');
-	return 0;
+	int putchar(int _putchar);
+	return (0);
 }
