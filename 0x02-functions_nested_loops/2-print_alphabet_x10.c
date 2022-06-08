@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - code block
- * Description: Print alphabet 10 times
- * Return: Always 0
+ * print_alphabet_x10 - Print alphabet 10 times
+ * Return: void
  */
-int main(void)
+
+void print_alphabet_x10(void)
 {
 	char c;
 	int i = 0;
@@ -22,5 +22,5 @@ int main(void)
 		_putchar('\n');
 		i++;
 	}
-	return (0);
+
 }
